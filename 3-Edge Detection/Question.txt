@@ -1,0 +1,6 @@
+Consider a medical image from your medical image dataset selected. Implement different edge detection techniques such as:
+	a. Sobel (Vary dx, vary dy, vary both and observe the output)
+	b. Prewitt
+	c. Laplacian
+	d. Canny Edge Detector (Vary for 3 sets of threshold values).
+Compare the results and conclude which edge detection technique is good for your input medical image.

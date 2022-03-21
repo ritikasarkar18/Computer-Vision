@@ -1,0 +1,5 @@
+1. Consider a medical image from your medical image dataset selected. Implement the following:
+i. Foreground Extraction using Grabcut Algorithm.
+ii. Foreground Extraction using contour detection.
+ii. Compare the result and say which approach foreground extraction was best suited for your input image.
+2.  Consider a medical image from your medical image dataset selected. Implement Background subtraction using BackgroundSubtractorMOG, BackgroundSubtractorMOG2 and BackgroundSubtractorGMG.Compare the result and say which approach foreground extraction was best suited for your input image.

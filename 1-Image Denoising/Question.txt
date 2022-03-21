@@ -1,0 +1,2 @@
+i. Using OpenCV import a colour image and convert the same to its grey scale equivalent.
+ii. Understand the impact of different types on noise in images (Gaussian, Salt & Pepper, Poisson, Spectacle) by introducing different types of noise to images. Identify different filters (Gaussian, Median, Mean and Weiner) that might suppress the different types of noise in images. Through experimentation, determine, which filter is best suited for suppressing each type of noise present in an image.

@@ -1,0 +1,5 @@
+1. Demonstrate simple linear SVM classification using a medical domain related dataset. [The dataset may also be numerical. This is given for you to just understand basic SVM]
+
+1. Use a medical image dataset. Apply SVM and perform a Binary classification over the dataset. Guage the performance of your SVM classification. 
+
+2. Use any face expression dataset. Demonstrate Multiclass classification using SVM. Guage the performance of your SVM classification. 

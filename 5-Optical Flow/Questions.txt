@@ -1,0 +1,4 @@
+i. Two sample video files are provided. Apply Lucas-Kanade and Horn-Schunck optical flow approaches and observe the optical flow behaviour of objects in the sample videos. [Sample video files are available in teams]
+
+ii. Record a video such that you hold an object such as cup / ball and then move the object for some time across the video frames. Post recording the video, use the Lucas-Kanade and Horn-Schunck optical flow approaches and verify whether the object is tracked.
+
