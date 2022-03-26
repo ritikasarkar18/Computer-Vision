@@ -1,0 +1,4 @@
+1. Consider a medical image dataset. Use machine learning classifiers such as Logistic Regression, Gaussian Bayes, K Nearest Neighbor & Random Forest to perform classification over the dataset selected. Evaluate the performance of classifier using Confusion Matrix and ROC. Based on the results suggest which ML classifier will be best suited for your dataset classification.
+
+2. Apply necessary pre-processing techniques and identify other possible enhancement methods to increase the accuracy of your classifier. Strike a neat comparison with the accuracy results obtained earlier.
+
