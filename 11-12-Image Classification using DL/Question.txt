@@ -1,0 +1,1 @@
+Consider a medical image dataset. Use CNN to perform classification over the dataset selected. Evaluate the performance of classifier in terms of accuracy of classification.
